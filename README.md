@@ -30,3 +30,7 @@ sudo apt install mono-complete golang nodejs default-jdk npm
 cd ~/.vim/plugged/YouCompleteMe
 python3 install.py --all
 ```
+### In case of c++ import files not found
+```
+sudo apt install libstdc++-12-dev
+```
